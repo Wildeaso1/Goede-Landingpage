@@ -1,0 +1,45 @@
+html, body { margin: 0; padding: 0}
+
+p {
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+h1 {
+    clear: both;
+    margin: 0;
+    font-family: "Papyrus", fantasy;
+    color: rgb(221, 221, 221)
+}
+nav {
+    background-color: rgb(181, 139, 206) ;
+    height: 30px;
+}
+nav a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    width: 200px;
+    padding: 5px 10px;
+    float: left;
+    text-align: center;
+}
+nav a:hover{
+    background-color:rgb(114, 114, 114)
+}
+body{
+    background-color: rgb(37, 3, 36);
+}
+
+img {
+    max-width: 100%
+}
+
+footer {
+    background-color: rgb(82, 82, 82)	;
+    color: azure;
+    padding: 10px 30px;
+}
+
+section {
+    background-color: rgb(219, 144, 185);
+}
